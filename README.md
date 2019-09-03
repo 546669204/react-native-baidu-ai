@@ -1,5 +1,6 @@
 
 # react-native-baidu-AI
+基于百度sdk 实现的 人脸采集 组件
 
 ## Getting started
 
